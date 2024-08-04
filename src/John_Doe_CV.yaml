@@ -1,108 +1,69 @@
 cv:
-  name: John Doe
-  location: Your Location
-  email: youremail@yourdomain.com
-  phone: tel:+90-541-999-99-99
-  website: https://yourwebsite.com/
+  name: Ashutosh Apurva
+  location: Kolkata,India
+  email: apooorva01@gmail.com
+  phone: tel:+91-6202404581
   social_networks:
     - network: LinkedIn
-      username: yourusername
+      username: linkedin.com/in/ashutosh-apurva-b18a18185
     - network: GitHub
-      username: yourusername
+      username: github.com/Apurva14A
   sections:
-    welcome_to_RenderCV!:
-      - '[RenderCV](https://github.com/sinaatalay/rendercv) is
-        a LaTeX-based CV/resume framework. It allows you to create
-        a high-quality CV or resume as a PDF file from a YAML
-        file, with **full Markdown syntax support** and **complete
-        control over the LaTeX code**.'
-      - The boilerplate content was inspired by [Gayle McDowell](https://github.com/dnl-blkv/mcdowell-cv).
-    quick_guide:
-      - bullet: Each section title is arbitrary and each section
-          contains a list of entries.
-      - bullet: 'There are 7 unique entry types: *BulletEntry*,
-          *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*,
-          *PublicationEntry*, and *OneLineEntry*.'
-      - bullet: Select a section title, pick an entry type, and
-          start writing your section!
-      - bullet: '[Here](https://docs.rendercv.com/user_guide/),
-          you can find a comprehensive user guide for RenderCV.'
+    Summary:
+      - DevOps Engineer | 3+ years | Expert in Terraform, Ansible, Kubernetes orchestration, CI/CD pipelines (GitHub Actions, Jenkins), cloud infrastructure (AWS, EC2), and monitoring (Prometheus, Grafana), Strong in Linux, Bash, Git, and code quality tools (SonarQube, Jfrog).
     education:
-      - institution: University of Pennsylvania
+      - institution: Jharkhand Raksha Shakti University
         area: Computer Science
-        degree: BS
-        start_date: 2000-09
-        end_date: 2005-05
+        degree: Bachelor's of Science
+        start_date: 2017-07
+        end_date: 2020-08
         highlights:
-          - 'GPA: 3.9/4.0 ([Transcript](https://example.com))'
-          - '**Coursework:** Computer Architecture, Comparison
-            of Learning Algorithms, Computational Theory'
+          - 'CGPA: 8.2/10.0'
     experience:
-      - company: Apple
-        position: Software Engineer
-        location: Cupertino, CA
-        start_date: 2005-06
-        end_date: 2007-08
+      - company: Tata Consultancy Services
+        position: DevOps Engineer
+        location: Kolkata metropolitan area, West Bengal, India
+        start_date: 2022-08
+        end_date: present
         highlights:
-          - Reduced time to render user buddy lists by 75% by
-            implementing a prediction algorithm
-          - Integrated iChat with Spotlight Search by creating
-            a tool to extract metadata from saved chat transcripts
-            and provide metadata to a system-wide search database
-          - Redesigned chat file format and implemented backward
-            compatibility for search
-      - company: Microsoft
-        position: Software Engineer Intern
-        location: Redmond, WA
-        start_date: 2003-06
-        end_date: 2003-08
+          - Supercharged software delivery by 35% through robust and secure CI/CD pipelines built with GitHub Actions, ensuring seamless deployments to Kubernetes environments.
+          - Accelerate delivery of secure, high-quality software by 25% through rigorous code analysis and vulnerability detection with SonarQube.
+          - Accelerated microservice deployment velocity by 40% through optimized Helm chart-based releases, driving enhanced operational efficiency and faster time-to-market on Kubernetes.
+          - Boosted time-to-insights by 30% through automated deployments of Prometheus, Grafana, and Datadog using Helm, enabling comprehensive monitoring and proactive decision-making.
+          - Revolutionized log analysis and visualization with LogQL in Grafana, unlocking deeper insights and accelerating troubleshooting.
+          - Optimized traffic management and routing efficiency by 25% through implementation of Ingress with path-based routing, enabling dynamic service exposure and improved user experience.
+      - company: Tata Consultancy Services
+        position: Site Reliability Engineer
+        location: Kolkata metropolitan area, West Bengal, India
+        start_date: 2021-03
+        end_date: 2022-06
         highlights:
-          - Designed a UI for the VS open file switcher (Ctrl-Tab)
-            and extended it to tool windows
-          - Created a service to provide gradient across VS and
-            VS add-ins, optimizing its performance via caching
-          - Built an app to compute the similarity of all methods
-            in a codebase, reducing the time from $\mathcal{O}(n^2)$
-            to $\mathcal{O}(n \log n)$
-          - Created a test case generation tool that creates random
-            XML docs from XML Schema
-          - Automated the extraction and processing of large datasets
-            from legacy systems using SQL and Perl scripts
-    publications:
-      - title: 3D Finite Element Analysis of No-Insulation Coils
-        authors:
-          - Frodo Baggins
-          - '***John Doe***'
-          - Samwise Gamgee
-        doi: 10.1109/TASC.2023.3340648
-        date: 2004-01
+          - Led the migration of legacy applications to AWS, leveraging EC2, S3, RDS, CloudWatch, Route 53, and AWS ACM, resulting in a
+            30% reduction in operational costs and improved scalability.
+          - Successfully migrated millions of customer records from a legacy database to Amazon RDS with PostgreSQL, boosting query
+            performance by 50% and reducing database management costs by 30%.
+          - Optimized CI/CD during application migration with Jenkins, cutting deployment times by 40% through enhanced automation
+            of build, test, and release processes.
+          - Enhanced application reliability and availability with AWS Auto Scaling, achieving 99.9% uptime and reducing operational
+            costs by 25% through dynamic resource scaling.
+          - Implemented New Relic for application monitoring and log shipping, reducing maintenance costs by 20% and boosting
+            performance insights, which led to a 30% improvement in application response times.
     projects:
-      - name: Multi-User Drawing Tool
-        date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
+      - name: Personal Portfolio
+        date: '[github.com/Apurva14A/myPortfolio](https://github.com/Apurva14A/myPortfolio)'
         highlights:
-          - Developed an electronic classroom where multiple users
-            can simultaneously view and draw on a "chalkboard"
-            with each person's edits synchronized
-          - 'Tools Used: C++, MFC'
-      - name: Synchronized Desktop Calendar
-        date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
+          - Developed a portfolio website to store and record my resume, projects and blogs to showcase it to employers.
+          - 'Tools Used: Python, Django, HTML,CSS,Docker,GitHub Pages,GitHub Actions'
+      - name: Password Generator app
+        date: '[github.com/Apurva14A/password_generator-app](https://github.com/Apurva14A/password_generator-app)'
         highlights:
-          - Developed a desktop calendar with globally shared
-            and synchronized calendars, allowing users to schedule
-            meetings with other users
-          - 'Tools Used: C#, .NET, SQL, XML'
-      - name: Custom Operating System
-        date: 2002
-        highlights:
-          - Built a UNIX-style OS with a scheduler, file system,
-            text editor, and calculator
-          - 'Tools Used: C'
+          - Developed a python web application for generating random password to be used for authentication process.
+          - 'Tools Used: Python, Django, HTML, CSS, GitHub Action'
     technologies:
       - label: Languages
-        details: C++, C, Java, Objective-C, C#, SQL, JavaScript
+        details: Python, Java
       - label: Technologies
-        details: .NET, Microsoft SQL Server, XCode, Interface
-          Builder
+        details: Terraform, Ansible, Docker, Kubernetes, Helm, GitHub Actions, Jenkins, Prometheus, Grafana, Loki, AWS,EC2,S3,RDS, Linux, Bash, Git,SonarQube, Jfrog Artifactory
 design:
   theme: classic
   font: Source Sans 3
