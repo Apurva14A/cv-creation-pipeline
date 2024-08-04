@@ -20,7 +20,7 @@ cv:
         highlights:
           - 'CGPA: 8.2/10.0'
     experience:
-      - company: Tata Consultancy Services
+      - company: Tata Consultancy Services ,Project client- Telia Comapany AB
         position: DevOps Engineer
         location: Kolkata metropolitan area, West Bengal, India
         start_date: 2022-08
@@ -32,7 +32,7 @@ cv:
           - Boosted time-to-insights by 30% through automated deployments of Prometheus, Grafana, and Datadog using Helm, enabling comprehensive monitoring and proactive decision-making.
           - Revolutionized log analysis and visualization with LogQL in Grafana, unlocking deeper insights and accelerating troubleshooting.
           - Optimized traffic management and routing efficiency by 25% through implementation of Ingress with path-based routing, enabling dynamic service exposure and improved user experience.
-      - company: Tata Consultancy Services
+      - company: Tata Consultancy Services, Project client - McGraw Hill
         position: Site Reliability Engineer
         location: Kolkata metropolitan area, West Bengal, India
         start_date: 2021-03
