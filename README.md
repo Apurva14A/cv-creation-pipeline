@@ -48,7 +48,7 @@ DevOps Engineer | 3+ years | Expert in Terraform, Ansible, Kubernetes orchestrat
 
 # Experience
 
-## Tata Consultancy Services, DevOps Engineer
+## Tata Consultancy Services ,Project client- Telia Comapany AB, DevOps Engineer
 
 - Aug 2022 – present
 - Kolkata metropolitan area, West Bengal, India
@@ -59,7 +59,7 @@ DevOps Engineer | 3+ years | Expert in Terraform, Ansible, Kubernetes orchestrat
 - Revolutionized log analysis and visualization with LogQL in Grafana, unlocking deeper insights and accelerating troubleshooting.
 - Optimized traffic management and routing efficiency by 25% through implementation of Ingress with path-based routing, enabling dynamic service exposure and improved user experience.
 
-## Tata Consultancy Services, Site Reliability Engineer
+## Tata Consultancy Services, Project client - McGraw Hill, Site Reliability Engineer
 
 - Mar 2021 – June 2022
 - Kolkata metropolitan area, West Bengal, India
