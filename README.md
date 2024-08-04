@@ -26,83 +26,64 @@ Picture this:
 -  Edit and preview your CV in your browser without installing anything by creating a codespace. Click the <> **Code** button, then click the **Codespaces** tab, and then click **Create codespace on main**. The environment will be ready for RenderCV usage. Update `.vscode/launch.json` to point to your YAML file and press `F5` to run RenderCV in the browser.
 
 <!-- Remove above in src/markdown/Header.j2.md not in README.md -->
-# John Doe's CV
+# Ashutosh Apurva's CV
 
-- Phone: +90 541 999 99 99
-- Email: [youremail@yourdomain.com](mailto:youremail@yourdomain.com)
-- Location: Your Location
-- Website: [yourwebsite.com](https://yourwebsite.com/)
-- LinkedIn: [yourusername](https://linkedin.com/in/yourusername)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Phone: +91 62024 04581
+- Email: [apooorva01@gmail.com](mailto:apooorva01@gmail.com)
+- Location: Kolkata,India
+- LinkedIn: [linkedin.com/in/ashutosh-apurva-b18a18185](https://linkedin.com/in/linkedin.com/in/ashutosh-apurva-b18a18185)
+- GitHub: [github.com/Apurva14A](https://github.com/github.com/Apurva14A)
 
 
-# Welcome to RenderCV!
+# Summary
 
-[RenderCV](https://github.com/sinaatalay/rendercv) is a LaTeX-based CV/resume framework. It allows you to create a high-quality CV or resume as a PDF file from a YAML file, with **full Markdown syntax support** and **complete control over the LaTeX code**.
+DevOps Engineer | 3+ years | Expert in Terraform, Ansible, Kubernetes orchestration, CI/CD pipelines (GitHub Actions, Jenkins), cloud infrastructure (AWS, EC2), and monitoring (Prometheus, Grafana), Strong in Linux, Bash, Git, and code quality tools (SonarQube, Jfrog).
 
-The boilerplate content was inspired by [Gayle McDowell](https://github.com/dnl-blkv/mcdowell-cv).
-
-# Quick Guide
-
-- Each section title is arbitrary and each section contains a list of entries.
-- There are 7 unique entry types: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.
-- Select a section title, pick an entry type, and start writing your section!
-- [Here](https://docs.rendercv.com/user_guide/), you can find a comprehensive user guide for RenderCV.
 # Education
 
-## University of Pennsylvania, BS in Computer Science
+## Jharkhand Raksha Shakti University, Bachelor's of Science in Computer Science
 
-- Sept 2000 – May 2005
-- GPA: 3.9/4.0 ([Transcript](https://example.com))
-- **Coursework:** Computer Architecture, Comparison of Learning Algorithms, Computational Theory
+- July 2017 – Aug 2020
+- CGPA: 8.2/10.0
 
 # Experience
 
-## Apple, Software Engineer
+## Tata Consultancy Services, DevOps Engineer
 
-- June 2005 – Aug 2007
-- Cupertino, CA
-- Reduced time to render user buddy lists by 75% by implementing a prediction algorithm
-- Integrated iChat with Spotlight Search by creating a tool to extract metadata from saved chat transcripts and provide metadata to a system-wide search database
-- Redesigned chat file format and implemented backward compatibility for search
+- Aug 2022 – present
+- Kolkata metropolitan area, West Bengal, India
+- Supercharged software delivery by 35% through robust and secure CI/CD pipelines built with GitHub Actions, ensuring seamless deployments to Kubernetes environments.
+- Accelerate delivery of secure, high-quality software by 25% through rigorous code analysis and vulnerability detection with SonarQube.
+- Accelerated microservice deployment velocity by 40% through optimized Helm chart-based releases, driving enhanced operational efficiency and faster time-to-market on Kubernetes.
+- Boosted time-to-insights by 30% through automated deployments of Prometheus, Grafana, and Datadog using Helm, enabling comprehensive monitoring and proactive decision-making.
+- Revolutionized log analysis and visualization with LogQL in Grafana, unlocking deeper insights and accelerating troubleshooting.
+- Optimized traffic management and routing efficiency by 25% through implementation of Ingress with path-based routing, enabling dynamic service exposure and improved user experience.
 
-## Microsoft, Software Engineer Intern
+## Tata Consultancy Services, Site Reliability Engineer
 
-- June 2003 – Aug 2003
-- Redmond, WA
-- Designed a UI for the VS open file switcher (Ctrl-Tab) and extended it to tool windows
-- Created a service to provide gradient across VS and VS add-ins, optimizing its performance via caching
-- Built an app to compute the similarity of all methods in a codebase, reducing the time from $\mathcal{O}(n^2)$ to $\mathcal{O}(n \log n)$
-- Created a test case generation tool that creates random XML docs from XML Schema
-- Automated the extraction and processing of large datasets from legacy systems using SQL and Perl scripts
-
-# Publications
-
-## 3D Finite Element Analysis of No-Insulation Coils ([10.1109/TASC.2023.3340648](https://doi.org/10.1109/TASC.2023.3340648))
-- Jan 2004
-- Frodo Baggins, ***John Doe***, Samwise Gamgee
+- Mar 2021 – June 2022
+- Kolkata metropolitan area, West Bengal, India
+- Led the migration of legacy applications to AWS, leveraging EC2, S3, RDS, CloudWatch, Route 53, and AWS ACM, resulting in a 30% reduction in operational costs and improved scalability.
+- Successfully migrated millions of customer records from a legacy database to Amazon RDS with PostgreSQL, boosting query performance by 50% and reducing database management costs by 30%.
+- Optimized CI/CD during application migration with Jenkins, cutting deployment times by 40% through enhanced automation of build, test, and release processes.
+- Enhanced application reliability and availability with AWS Auto Scaling, achieving 99.9% uptime and reducing operational costs by 25% through dynamic resource scaling.
+- Implemented New Relic for application monitoring and log shipping, reducing maintenance costs by 20% and boosting performance insights, which led to a 30% improvement in application response times.
 
 # Projects
 
-## Multi-User Drawing Tool
+## Personal Portfolio
 
-- [github.com/name/repo](https://github.com/sinaatalay/rendercv)
-- Developed an electronic classroom where multiple users can simultaneously view and draw on a "chalkboard" with each person's edits synchronized
-- Tools Used: C++, MFC
+- [github.com/Apurva14A/myPortfolio](https://github.com/Apurva14A/myPortfolio)
+- Developed a portfolio website to store and record my resume, projects and blogs to showcase it to employers.
+- Tools Used: Python, Django, HTML,CSS,Docker,GitHub Pages,GitHub Actions
 
-## Synchronized Desktop Calendar
+## Password Generator app
 
-- [github.com/name/repo](https://github.com/sinaatalay/rendercv)
-- Developed a desktop calendar with globally shared and synchronized calendars, allowing users to schedule meetings with other users
-- Tools Used: C#, .NET, SQL, XML
-
-## Custom Operating System
-
-- 2002
-- Built a UNIX-style OS with a scheduler, file system, text editor, and calculator
-- Tools Used: C
+- [github.com/Apurva14A/password_generator-app](https://github.com/Apurva14A/password_generator-app)
+- Developed a python web application for generating random password to be used for authentication process.
+- Tools Used: Python, Django, HTML, CSS, GitHub Action
 
 # Technologies
 
-- Languages: C++, C, Java, Objective-C, C#, SQL, JavaScript
-- Technologies: .NET, Microsoft SQL Server, XCode, Interface Builder
+- Languages: Python, Java
+- Technologies: Terraform, Ansible, Docker, Kubernetes, Helm, GitHub Actions, Jenkins, Prometheus, Grafana, Loki, AWS,EC2,S3,RDS, Linux, Bash, Git,SonarQube, Jfrog Artifactory
