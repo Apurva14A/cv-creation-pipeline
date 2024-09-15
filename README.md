@@ -37,7 +37,7 @@ Picture this:
 
 # Summary
 
-DevOps Engineer | 3+ years | Expert in Terraform, Ansible, Kubernetes orchestration, CI/CD pipelines (GitHub Actions, Jenkins), cloud infrastructure (AWS, EC2), and monitoring (Prometheus, Grafana), Strong in Linux, Bash, Git, and code quality tools (SonarQube, Jfrog).
+Software Engineer | 3+ years | Expert in Java, Python,Machine Learning, Terraform, Ansible, Kubernetes orchestration, CI/CD pipelines (GitHub Actions, Jenkins), cloud infrastructure (AWS, EC2), and monitoring (Prometheus, Grafana), Strong in Linux, Bash, Git, and code quality tools (SonarQube, Jfrog).
 
 # Education
 
@@ -48,26 +48,17 @@ DevOps Engineer | 3+ years | Expert in Terraform, Ansible, Kubernetes orchestrat
 
 # Experience
 
-## Tata Consultancy Services ,Project client- Telia Comapany AB, DevOps Engineer
+## Tata Consultancy Services ,Project client- Telia Comapany AB, Software Engineer
 
-- Aug 2022 – present
+- Aug 2021 – present
 - Kolkata metropolitan area, West Bengal, India
+- Played a key role in development, Integration,Infrastructure and application deployment of K8s native microservice application based on spring boot.
 - Supercharged software delivery by 35% through robust and secure CI/CD pipelines built with GitHub Actions, ensuring seamless deployments to Kubernetes environments.
 - Accelerate delivery of secure, high-quality software by 25% through rigorous code analysis and vulnerability detection with SonarQube.
 - Accelerated microservice deployment velocity by 40% through optimized Helm chart-based releases, driving enhanced operational efficiency and faster time-to-market on Kubernetes.
 - Boosted time-to-insights by 30% through automated deployments of Prometheus, Grafana, and Datadog using Helm, enabling comprehensive monitoring and proactive decision-making.
 - Revolutionized log analysis and visualization with LogQL in Grafana, unlocking deeper insights and accelerating troubleshooting.
 - Optimized traffic management and routing efficiency by 25% through implementation of Ingress with path-based routing, enabling dynamic service exposure and improved user experience.
-
-## Tata Consultancy Services, Project client - McGraw Hill, Site Reliability Engineer
-
-- Mar 2021 – June 2022
-- Kolkata metropolitan area, West Bengal, India
-- Led the migration of legacy applications to AWS, leveraging EC2, S3, RDS, CloudWatch, Route 53, and AWS ACM, resulting in a 30% reduction in operational costs and improved scalability.
-- Successfully migrated millions of customer records from a legacy database to Amazon RDS with PostgreSQL, boosting query performance by 50% and reducing database management costs by 30%.
-- Optimized CI/CD during application migration with Jenkins, cutting deployment times by 40% through enhanced automation of build, test, and release processes.
-- Enhanced application reliability and availability with AWS Auto Scaling, achieving 99.9% uptime and reducing operational costs by 25% through dynamic resource scaling.
-- Implemented New Relic for application monitoring and log shipping, reducing maintenance costs by 20% and boosting performance insights, which led to a 30% improvement in application response times.
 
 # Projects
 
@@ -85,5 +76,5 @@ DevOps Engineer | 3+ years | Expert in Terraform, Ansible, Kubernetes orchestrat
 
 # Technologies
 
-- Languages: Python, Java
-- Technologies: Terraform, Ansible, Docker, Kubernetes, Helm, GitHub Actions, Jenkins, Prometheus, Grafana, Loki, AWS,EC2,S3,RDS, Linux, Bash, Git,SonarQube, Jfrog Artifactory
+- Languages: Python, Java,Spring Boot
+- Technologies: Machine Learning, NumPy, Terraform, Ansible, Docker, Kubernetes, Helm, GitHub Actions, Jenkins, Prometheus, Grafana, Loki, AWS,EC2,S3,RDS, Linux, Bash, Git,SonarQube, Jfrog Artifactory
