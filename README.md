@@ -48,17 +48,16 @@ Software Engineer | 3+ years | Expert in Java, Python,Machine Learning, Terrafor
 
 # Experience
 
-## Tata Consultancy Services ,Project client- Telia Comapany AB, Software Engineer
+## Tata Consultancy Services, Software Engineer
 
 - Aug 2021 – present
 - Kolkata metropolitan area, West Bengal, India
-- Played a key role in development, Integration,Infrastructure and application deployment of K8s native microservice application based on spring boot.
-- Supercharged software delivery by 35% through robust and secure CI/CD pipelines built with GitHub Actions, ensuring seamless deployments to Kubernetes environments.
-- Accelerate delivery of secure, high-quality software by 25% through rigorous code analysis and vulnerability detection with SonarQube.
-- Accelerated microservice deployment velocity by 40% through optimized Helm chart-based releases, driving enhanced operational efficiency and faster time-to-market on Kubernetes.
-- Boosted time-to-insights by 30% through automated deployments of Prometheus, Grafana, and Datadog using Helm, enabling comprehensive monitoring and proactive decision-making.
-- Revolutionized log analysis and visualization with LogQL in Grafana, unlocking deeper insights and accelerating troubleshooting.
-- Optimized traffic management and routing efficiency by 25% through implementation of Ingress with path-based routing, enabling dynamic service exposure and improved user experience.
+- Developed and maintained scalable backend services using Java and Python for data-intensive applications, supporting over 1 million users.
+- Designed and deployed machine learning models to production using Python-based libraries (Scikit-learn, TensorFlow).
+- Streamlined CI/CD processes with Jenkins and GitHub Actions, reducing deployment times by 40%.
+- Implemented and managed Kubernetes clusters for microservices, ensuring high availability and fault tolerance.
+- Automated cloud infrastructure provisioning using Terraform, optimizing deployment across AWS and Azure environments.
+- Integrated monitoring and alerting solutions (Prometheus, Grafana) to ensure real-time system observability and reduced downtime by 30%.
 
 # Projects
 
@@ -76,5 +75,5 @@ Software Engineer | 3+ years | Expert in Java, Python,Machine Learning, Terrafor
 
 # Technologies
 
-- Languages: Python, Java,Spring Boot
+- Languages: Python, Java
 - Technologies: Machine Learning, NumPy, Terraform, Ansible, Docker, Kubernetes, Helm, GitHub Actions, Jenkins, Prometheus, Grafana, Loki, AWS,EC2,S3,RDS, Linux, Bash, Git,SonarQube, Jfrog Artifactory
