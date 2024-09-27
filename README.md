@@ -37,7 +37,7 @@ Picture this:
 
 # Summary
 
-Software Engineer | 3+ years | Expert in Java, Python,Machine Learning, Terraform, Ansible, Kubernetes orchestration, CI/CD pipelines (GitHub Actions, Jenkins), cloud infrastructure (AWS, EC2), and monitoring (Prometheus, Grafana), Strong in Linux, Bash, Git, and code quality tools (SonarQube, Jfrog).
+DevOps Engineer | 3+ years | Expert in Terraform, Ansible, Kubernetes orchestration, CI/CD pipelines (GitHub Actions, Jenkins), JAVA, cloud infrastructure (AWS, EC2), and monitoring (Prometheus, Grafana), Strong in Linux, Bash, Git, and code quality tools (SonarQube, Jfrog).
 
 # Education
 
@@ -48,16 +48,26 @@ Software Engineer | 3+ years | Expert in Java, Python,Machine Learning, Terrafor
 
 # Experience
 
-## Tata Consultancy Services, Software Engineer
+## Tata Consultancy Services, DevOps Engineer
 
-- Aug 2021 – present
+- Apr 2022 – present
 - Kolkata metropolitan area, West Bengal, India
-- Developed and maintained scalable backend services using Java and Python for data-intensive applications, supporting over 1 million users.
-- Designed and deployed machine learning models to production using Python-based libraries (Scikit-learn, TensorFlow).
-- Streamlined CI/CD processes with Jenkins and GitHub Actions, reducing deployment times by 40%.
-- Implemented and managed Kubernetes clusters for microservices, ensuring high availability and fault tolerance.
-- Automated cloud infrastructure provisioning using Terraform, optimizing deployment across AWS and Azure environments.
-- Integrated monitoring and alerting solutions (Prometheus, Grafana) to ensure real-time system observability and reduced downtime by 30%.
+- Superchargedsoftware delivery by 35% through robust and ecure CI/CD pipelines built with GitHub Actions, ensuring seamless deployments to Kubernetes environments.
+- Accelerate delivery of secure, high-quality software by 25% through rigorous code analysis and vulnerability detection with SonarQube.
+- Accelerated microservice deployment velocity by 40% through optimized Helm chart-based releases, driving enhanced operational efficiency and faster time-to market on Kubernetes.
+- Boosted time-to-insights by 30% through automated deployments of Prometheus, Grafana, andDatadog using Helm, enabling comprehensive monitoringandproactive decision-making.
+- Revolutionized log analysis and visualization with LogQL in Grafana, unlocking deeper insights and accelerating troubleshooting.
+- Optimized traffic management and routing efficiency by 25% through implementation of Ingress with path-based routing, enabling dynamic service exposure and improved user experience.
+
+## Tata Consultancy Services, Site Reliability Engineer
+
+- Mar 2021 – Mar 2022
+- Kolkata metropolitan area, West Bengal, India
+- Led the migration of legacy applications to AWS, leveraging EC2, S3, RDS, Cloud-Watch, Route 53, and AWS ACM, resulting in a 30% reduction in operational costs and improved scalability.
+- Successfully migrated millions of customerrecords froma legacy database toAmazonRDSwithPostgreSQL, boosting query performanceby50%andreducing database management costs by 30%.
+- Optimized CI/CD during application migration with Jenkins, cutting deployment times by 40% through enhanced automation of build, test, and release processes.
+- Enhanced application reliability and availability with AWS Auto Scaling, achieving 99.9% uptime and reducing operational costs by 25% through dynamic resource scaling.
+- ImplementedNewRelic for application monitoring andlog shipping, reducing maintenance costs by 20% and boosting performance insights, which led to a 30% improvement in application response times.
 
 # Projects
 
@@ -76,4 +86,4 @@ Software Engineer | 3+ years | Expert in Java, Python,Machine Learning, Terrafor
 # Technologies
 
 - Languages: Python, Java
-- Technologies: Machine Learning, NumPy, Terraform, Ansible, Docker, Kubernetes, Helm, GitHub Actions, Jenkins, Prometheus, Grafana, Loki, AWS,EC2,S3,RDS, Linux, Bash, Git,SonarQube, Jfrog Artifactory
+- Technologies: Terraform, Ansible, Docker, Kubernetes, Rancher, Helm, GitHub Actions, Jenkins, Prometheus, Grafana, Loki, AWS,EC2,S3,RDS, Linux, Bash, Git,SonarQube, Jfrog Artifactory
